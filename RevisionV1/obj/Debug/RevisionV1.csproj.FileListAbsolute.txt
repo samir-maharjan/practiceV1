@@ -1,0 +1,8 @@
+D:\Projects\Samir\RevisionV1\RevisionV1\bin\Debug\RevisionV1.exe.config
+D:\Projects\Samir\RevisionV1\RevisionV1\bin\Debug\RevisionV1.exe
+D:\Projects\Samir\RevisionV1\RevisionV1\bin\Debug\RevisionV1.pdb
+D:\Projects\Samir\RevisionV1\RevisionV1\obj\Debug\RevisionV1.csproj.AssemblyReference.cache
+D:\Projects\Samir\RevisionV1\RevisionV1\obj\Debug\RevisionV1.csproj.SuggestedBindingRedirects.cache
+D:\Projects\Samir\RevisionV1\RevisionV1\obj\Debug\RevisionV1.csproj.CoreCompileInputs.cache
+D:\Projects\Samir\RevisionV1\RevisionV1\obj\Debug\RevisionV1.exe
+D:\Projects\Samir\RevisionV1\RevisionV1\obj\Debug\RevisionV1.pdb
